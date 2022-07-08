@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/Keebio-Parts.pretty/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
 )
