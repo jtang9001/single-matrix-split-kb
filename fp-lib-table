@@ -3,4 +3,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "SN74AHCT125D")(type "KiCad")(uri "${KIPRJMOD}/SN74AHCT125D")(options "")(descr ""))
+  (lib (name "10029449-001RLF")(type "KiCad")(uri "${KIPRJMOD}/10029449-001RLF")(options "")(descr ""))
 )
