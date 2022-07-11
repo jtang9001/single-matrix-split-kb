@@ -403,7 +403,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "kb.step",
+      "step": "kb_populated_2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
