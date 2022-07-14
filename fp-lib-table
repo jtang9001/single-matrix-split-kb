@@ -4,4 +4,5 @@
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "SN74AHCT125D")(type "KiCad")(uri "${KIPRJMOD}/SN74AHCT125D")(options "")(descr ""))
   (lib (name "10029449-001RLF")(type "KiCad")(uri "${KIPRJMOD}/10029449-001RLF")(options "")(descr ""))
+  (lib (name "TXB0101DBVR")(type "KiCad")(uri "${KIPRJMOD}/TXB0101DBVR")(options "")(descr ""))
 )

@@ -4,4 +4,5 @@
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "SN74AHCT125D")(type "Legacy")(uri "${KIPRJMOD}/SN74AHCT125D/SN74AHCT125D.lib")(options "")(descr ""))
   (lib (name "10029449-001RLF")(type "Legacy")(uri "${KIPRJMOD}/10029449-001RLF/10029449-001RLF.lib")(options "")(descr ""))
+  (lib (name "TXB0101DBVR")(type "Legacy")(uri "${KIPRJMOD}/TXB0101DBVR/TXB0101DBVR.lib")(options "")(descr ""))
 )
