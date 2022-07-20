@@ -3315,7 +3315,7 @@
     (property "Value" "D_Small" (id 1) (at 168.91 187.96 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (id 2) (at 179.07 186.69 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 179.07 186.69 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 186.69 90)
@@ -3615,7 +3615,7 @@
     (uuid 0b55160c-0a06-413f-a5da-1c6d6b7157c7)
     (property "Reference" "J1" (id 0) (at 243.84 22.86 0))
     (property "Value" "Conn_02x04" (id 1) (at 247.65 25.4 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" (id 2) (at 242.57 31.75 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical" (id 2) (at 242.57 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 242.57 31.75 0)
@@ -4950,7 +4950,7 @@
     (property "Value" "D_Small" (id 1) (at 168.91 269.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (id 2) (at 179.07 267.97 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 179.07 267.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 267.97 90)
@@ -5036,7 +5036,7 @@
     (property "Value" "D_Small" (id 1) (at 168.91 147.32 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (id 2) (at 179.07 146.05 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 179.07 146.05 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 146.05 90)
@@ -6283,7 +6283,7 @@
     (property "Value" "D_Small" (id 1) (at 168.91 228.6 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (id 2) (at 179.07 227.33 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 179.07 227.33 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 227.33 90)
@@ -7013,7 +7013,7 @@
     (property "Value" "Conn_01x06" (id 1) (at 396.24 228.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" (id 2) (at 393.7 226.06 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" (id 2) (at 393.7 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 393.7 226.06 0)
@@ -8369,7 +8369,7 @@
     (property "Value" "D_Small" (id 1) (at 168.91 106.68 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (id 2) (at 179.07 105.41 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 179.07 105.41 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 105.41 90)
@@ -9781,7 +9781,7 @@
       (reference "D3") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/da8be1c2-ae61-4d13-8788-f80187bd54cf"
-      (reference "D4") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
+      (reference "D4") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/aa7826d1-0a77-42bf-ada8-10ee51561d22"
       (reference "D5") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
@@ -9808,7 +9808,7 @@
       (reference "D12") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/496220a6-e54e-4b7c-af88-503b2971e62d"
-      (reference "D13") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
+      (reference "D13") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/1428aeb1-a1be-4bfd-8e86-f6aac5bb24b0"
       (reference "D14") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
@@ -9835,7 +9835,7 @@
       (reference "D21") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00f13922-4f95-4450-87ba-7ef0dab7ba88"
-      (reference "D22") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
+      (reference "D22") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/9b42d764-8fe1-4fb3-a88d-f5fdea18ad57"
       (reference "D23") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
@@ -9862,7 +9862,7 @@
       (reference "D30") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/7d59c8b1-ccc0-48b5-9829-a91e9bbb6fc6"
-      (reference "D31") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
+      (reference "D31") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/404863d6-1ddc-4a88-9b20-ef96aa16758f"
       (reference "D32") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
@@ -9889,7 +9889,7 @@
       (reference "D39") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/472fa51d-88ac-48c3-ae52-a761d5c3cf9a"
-      (reference "D40") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
+      (reference "D40") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/6886faaf-5191-4c14-821f-b0b6efaecbc7"
       (reference "D41") (unit 1) (value "D_Small") (footprint "Keebio-Parts:Diode-Hybrid-Back")
@@ -10036,13 +10036,13 @@
       (reference "D144") (unit 1) (value "SK6812MINI") (footprint "Keebio-Parts:SK6812-MINI-E")
     )
     (path "/0b55160c-0a06-413f-a5da-1c6d6b7157c7"
-      (reference "J1") (unit 1) (value "Conn_02x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_02x04") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical")
     )
     (path "/6bd8bd76-8614-429d-a556-5fcda9f7b2c7"
       (reference "J2") (unit 1) (value "10029449-001RLF") (footprint "10029449-001RLF:AMPHENOL_10029449-001RLF")
     )
     (path "/a252f866-89e7-4b0c-a051-b3d9be2a2683"
-      (reference "J6") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
+      (reference "J6") (unit 1) (value "Conn_01x06") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/8a089bf5-08f1-41ee-aa36-391f5cdf0f9d"
       (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
