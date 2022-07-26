@@ -1197,6 +1197,7 @@
     )
   )
 
+
   (junction (at 69.85 204.47) (diameter 0) (color 0 0 0 0)
     (uuid 001fba5a-6764-4812-a4a0-93ac592ec667)
   )
@@ -7007,7 +7008,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 393.7 226.06 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a252f866-89e7-4b0c-a051-b3d9be2a2683)
-    (property "Reference" "J6" (id 0) (at 396.24 226.06 0)
+    (property "Reference" "J3" (id 0) (at 396.24 226.06 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x06" (id 1) (at 396.24 228.6 0)
@@ -10042,7 +10043,7 @@
       (reference "J2") (unit 1) (value "10029449-001RLF") (footprint "10029449-001RLF:AMPHENOL_10029449-001RLF")
     )
     (path "/a252f866-89e7-4b0c-a051-b3d9be2a2683"
-      (reference "J6") (unit 1) (value "Conn_01x06") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "Conn_01x06") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/8a089bf5-08f1-41ee-aa36-391f5cdf0f9d"
       (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
