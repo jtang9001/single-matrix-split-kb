@@ -5,4 +5,5 @@
   (lib (name "SN74AHCT125D")(type "KiCad")(uri "${KIPRJMOD}/SN74AHCT125D")(options "")(descr ""))
   (lib (name "10029449-001RLF")(type "KiCad")(uri "${KIPRJMOD}/10029449-001RLF")(options "")(descr ""))
   (lib (name "TXB0101DBVR")(type "KiCad")(uri "${KIPRJMOD}/TXB0101DBVR")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
 )

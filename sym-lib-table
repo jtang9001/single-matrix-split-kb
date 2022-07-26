@@ -5,4 +5,5 @@
   (lib (name "SN74AHCT125D")(type "Legacy")(uri "${KIPRJMOD}/SN74AHCT125D/SN74AHCT125D.lib")(options "")(descr ""))
   (lib (name "10029449-001RLF")(type "Legacy")(uri "${KIPRJMOD}/10029449-001RLF/10029449-001RLF.lib")(options "")(descr ""))
   (lib (name "TXB0101DBVR")(type "Legacy")(uri "${KIPRJMOD}/TXB0101DBVR/TXB0101DBVR.lib")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
 )

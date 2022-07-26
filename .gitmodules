@@ -10,3 +10,6 @@
 [submodule "yaemk-split-kb"]
 	path = yaemk-split-kb
 	url = https://github.com/KarlK90/yaemk-split-kb
+[submodule "marbastlib"]
+	path = marbastlib
+	url = https://github.com/ebastler/marbastlib.git
