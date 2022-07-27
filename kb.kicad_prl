@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [
@@ -26,7 +26,6 @@
       "/ENC_L2",
       "/RGB_3V3",
       "/RGB_5V",
-      "Net-(D0-Pad2)",
       "Net-(D1-Pad2)",
       "Net-(D2-Pad2)",
       "Net-(D3-Pad2)",
